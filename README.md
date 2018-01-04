@@ -95,7 +95,7 @@
 
 ## Exercício - clonando projetos e fazendo alterações
 
-* Agora vamos pegar um projeto já pronto e consertá-local
+* Agora vamos pegar um projeto já pronto e consertá-lo localmente
 1. Abra o terminal e vá para sua home => cd ~
 2. git clone http://git.intranet.bb.com.br:8113/gitrepos/snr-template-java.git
 3. mvn clean install
@@ -115,14 +115,14 @@
 
 ## Exercício - codificando meu primeiro teste
 
-1. Pelo sistema de arquivo, ache a classe src/main/java/br/com/bb/snr/modelo/Calcula.java
-e a classe src/test/java/br/com/bb/snr/modelo/Calcula.java
+1. Pelo sistema de arquivo, ache a classe src/main/java/br/com/bb/snr/modelo/Calculadora.java
+e a classe src/test/java/br/com/bb/snr/modelo/Calculadora.java
 
 2. Abra os dois com o gedit
 
 * Perceba quando tentamos fazer o build da nossa aplicação, um teste falha, vc precisa consertá-lo.
 
-3. Faça a subtração no Calcula.java
+3. Faça a subtração no Calculadora.java
 4. Faça a asserção no CalculadoraTest.java
 5. mvn clean install
 
