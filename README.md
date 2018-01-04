@@ -20,7 +20,7 @@
 
 * Segundo [**Raphael Lacerda**](https://github.com/raphaelLacerda/apresentacao-git)
 
-# Ambiente de Integração (AIC)
+# Ambiente de Integração Contínua (AIC)
 
 ## Construindo seu código
 
