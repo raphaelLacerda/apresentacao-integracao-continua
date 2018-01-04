@@ -13,8 +13,6 @@
 * refazendo perdas
 * remoto
 
-![Alt text](img/producao.jpg "funcionou passa pra frente")
-
 # Controle de Versão
 
 
@@ -142,12 +140,13 @@ e a classe src/test/java/br/com/bb/snr/modelo/Calculadora.java
 3. Escolha a sigla SNR
 4. Escolha o seu repositório
 5. informe o nome do componente: snr-f8437296
+6. Escolha o template JAVA
 
 * Pronto, seu projeto de build está terminado! Agora é só buildar!
 
-6. Vá no HOME do selfie
-7. Em disparar o build, informe o nome do componente e a branch (master)
-8. Solicite o build e aguarde o log
+7. Vá no HOME do selfie
+8. Em disparar o build, informe o nome do componente e a branch (master)
+9. Solicite o build e aguarde o log
 
 * O log não será encontrado no começo, mas mantenha esse link e faça a requisição depois.
 
@@ -155,3 +154,13 @@ e a classe src/test/java/br/com/bb/snr/modelo/Calculadora.java
 # Outras integrações
 
 ![Alt text](img/futuro.jpg "Tipos de Integração")
+
+
+# Saiba mais
+
+* [**Selfie**](http://alm.intranet.bb.com.br/selfie)
+* [**ALM**](http://alm.intranet.bb.com.br)
+* [**Portal Devops**](http://devops.intranet.bb.com.br/index.php)
+* [**Sonar**](http://sonar.intranet.bb.com.br)
+* [**Artifactory**](http://atf.intranet.bb.com.br)
+
