@@ -46,9 +46,10 @@
 
 1. abra o terminal
 2. crie uma pasta para seu repositório => mkdir snr-(sua matricula)
+   * entre na pasta
 3. git init
-4. git	config	--global	user.name	""
-5. git	config	--global	user.email	""
+4. git	config	user.name	"Raphael Lacerda - f8437296
+5. git	config	user.email	"raphael.lacerda@bb.com.br"
 6. git config -l
 7. touch hello.txt
 8. Abra o arquivo e escreva algo => gedit hello.txt
