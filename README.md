@@ -81,8 +81,9 @@
 ## Exercício - linkando nosso repositório local com repositório remoto
 
 1. Abra o terminal e entre na pasta do seu repositório criado anteriormente
-2. git remote -v => este comando lista todos os repositório remotos
-3. git remote add origin http://git.intranet.bb.com.br:8113/gitrepos/snr-f8437296.git
+2. git pull origin master
+3. git remote -v => este comando lista todos os repositório remotos
+4. git remote add origin http://git.intranet.bb.com.br:8113/gitrepos/snr-f8437296.git
 
 
 ## Exercício - pushando para o remote
